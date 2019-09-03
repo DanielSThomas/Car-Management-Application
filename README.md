@@ -1,4 +1,4 @@
-# Garage-Management-Application
+# Car-Management-Application
 A simple management application using .NET framework, CRUD Storage and OO practices. 
 
 # Usage
