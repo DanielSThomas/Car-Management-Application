@@ -15,5 +15,5 @@ A standard CRUD application, using .Net Windows Forms, allowing users to instant
 
 
 # Usage
-  -Launch and build in Visual Studio 
-  -Load Input.txt file
+ - Launch and build in Visual Studio 
+ - Load Input.txt file
